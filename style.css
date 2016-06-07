@@ -1,0 +1,13 @@
+
+.heading{
+	color: blue;
+	font-size:40px;
+}
+.description{
+	color: darkgrey;
+	font-size:20px;
+	border-style: dotted;
+	border-left-style:solid;
+	border-color:black;
+	background: brown;
+}
